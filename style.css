@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+  }
+
+.nav-btn-active{
+    color: white;
+}
+
+.nav-btn-inactive{
+    color: rgb(194, 194, 194);
+}
+.margin-left{
+    margin-left:40;
+}
+.bottom-btn{
+    position: relative;
+    bottom: 150px;
+    margin: auto;
+    align-items: center;
+}
